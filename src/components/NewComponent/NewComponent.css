@@ -1,0 +1,10 @@
+.newComponent {
+    cursor: pointer;
+    width: 200px;
+    background: #58b9ba;
+    margin: auto;
+}
+
+h2 {
+    display: inline-block;
+}
